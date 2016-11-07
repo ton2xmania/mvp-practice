@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_809402d12e295275164f12b723a2cedb252fe8d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.0/ba14d8b7789efde5ee150eacb297b7237abca39/logging-interceptor-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.0_0caf7412944935d3c1f334c82dd330f4e5f584ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5726f0751d609c8e61478df21a6a60b892af129e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3402a29f545f36d6a1bcc5b392b5115c96861a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_054d15297ae6d5037e3c848afa4e3e65f3312bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_a91b5c7f8ce95e974e63d6eec35f78ff5a1c3275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8881b0d06fdb4b7676b9f352e0696430410d19df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_afe16c0a5e0bb85bb6ab356367f849d056af9dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d0133c54c2aec9cded610db165d7225965aac500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_bdbe955d6da30540e648f66a19289e111e200557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f394145a6a391204c2dd8853fc80658e5f541b19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f549f29ae1360a740849cf31d5d2f27668b28450">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3aa7e6d266eefe7794ee7145bd91729f64b37f73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8e665cb9f5987d3d9e85258903824adf879eaec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c8b7b1556fd97749731d97fc4403467ca88c3972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4f7a006dc9d31faff6a4baf1f81a4a6893acefd6">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_94a9e69b5b268e70aa2c2d6bc65128541f953c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e3d1e55ed9c67917995a25430af506ed9180ded8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ce08a08b53113bf60b648dfaf9b4ca9f7755d5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_3807c2f9f073a9fd1b6f9e883f009f85e76dbd70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_8d8fa724f9de71e76ca17565fd553505a3fc0d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_809da1d28c8004eb191f5904a4cde5e5acfbfa83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_19d7dcc12a4ad25e3a08d3f823411c5351ae3fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_0a9523fba5e436939c3dc45b90c898e1dfb84bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.pixplicity.easyprefs/library/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27fc7e4c46d1c0a31853061b5920f5b6442d918b">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pixplicity.easyprefs-library-1.6_cf540a297396ca05a26e7dd8149c3d53f86180d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_acd1727ed135ecac675c6926dd145ff1d0d2f457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6c2fd4014e2d45a1e55f0bf70627b7c61d01993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_7fc2c0b9c7c83b69d38a9e000ace5c98ef6867d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c64ad0d149415857f1cab1584967e49ed34c29de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/home/ton2xmania/Documents/android-dev/MVPPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_d511d2a2c1f54741d3aa55cf6e9de6abb06136c6/classes.dex" />
+    </item>
+
+</items>
